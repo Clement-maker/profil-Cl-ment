@@ -1,0 +1,72 @@
+#Titre {
+    font-size: 45px;
+    font-weight: 150;
+}
+
+.profil {
+    text-align: center;
+}
+
+
+h2 {
+    color: #ffffff;
+    margin-top: 0;
+}
+
+h1 {
+    color: #ffffff;
+    font-weight: 150;
+    margin-top: 0;
+}
+
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+body {
+    background-image: url("fond.png");
+    font-family: 'Fira Sans', sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+p {
+    margin: 0;
+    color: #ffffff;
+
+}
+
+img {
+    width: 200px;
+    border-radius: 12px;
+}
+
+h1,
+h2 {
+    font-family: 'Roboto', sans-serif;
+}
+
+#f {
+    margin-bottom: 15px;
+}
+
+
+.container {
+    width: 750px;
+    margin: 0 auto;
+}
+
+@media (max-width:230px) {}
+
+.container {
+    width: 230px;
+}
+
+@media (max-width:940px) {}
+
+.container {
+    width: 49500px;
+}
